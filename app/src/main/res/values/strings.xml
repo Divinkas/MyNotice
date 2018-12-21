@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Rm_Kotlin</string>
+    <string name="text">Текст...</string>
+    <string name="add">Добавить</string>
+</resources>
